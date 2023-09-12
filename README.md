@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, Im Isaac Akinsanya 👋🏾
+
+- I’m currently working on a pomodoro timer made with JavaScript
+- I’m currently learning JavaScript, Flutter(Dart) and C#
 
 <!--
 **IsaacAkin/IsaacAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
