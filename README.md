@@ -1,8 +1,8 @@
-### Hi there, Im Isaac Akinsanya 👋🏾
+### Hi there, I'm Isaac Akinsanya 👋🏾
 
 I'm a third year Computer Science student at the University of Portsmouth, interested in web development and mobile app development
 
-- 🔭 I’m currently working on a pomodoro timer made with JavaScript
+- 🔭 I’m currently working on a rock, papar, scissors game made with JavaScript
 - 🌱 Currently learning JavaScript, C# and Flutter/Dart
 
 <!--
