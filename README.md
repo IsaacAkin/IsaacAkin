@@ -2,8 +2,8 @@
 
 I'm a third year Computer Science student at the University of Portsmouth, interested in web development and mobile app development
 
-- 🔭 I’m currently working on a rock, papar, scissors game made with JavaScript
-- 🌱 Currently learning JavaScript, C# and Flutter/Dart
+- 🔭 I’m currently working on a browser version of etch-a-sketch made with JavaScript
+- 🌱 Currently learning JavaScript and C#
 
 <!--
 **IsaacAkin/IsaacAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
