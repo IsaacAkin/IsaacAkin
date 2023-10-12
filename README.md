@@ -2,7 +2,7 @@
 
 I'm a third year Computer Science student at the University of Portsmouth, interested in web development and mobile app development
 
-- 🔭 I’m currently working on a browser version of etch-a-sketch made with JavaScript
+- 🔭 I’m currently working on a pomodoro timer made with JavaScript
 - 🌱 Currently learning JavaScript and C#
 
 <!--
@@ -10,6 +10,7 @@ I'm a third year Computer Science student at the University of Portsmouth, inter
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on a browser version of etch-a-sketch made with JavaScript
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
