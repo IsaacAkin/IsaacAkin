@@ -2,7 +2,7 @@
 
 I'm a third year Computer Science student at the University of Portsmouth, interested in web development and mobile app development
 
-- 🔭 I’m currently working on a pomodoro timer made with JavaScript
+- 🔭 I’m currently working on etch-a-sketch made with JavaScript
 - 🌱 Currently learning JavaScript and C#
 
 <!--
