@@ -2,9 +2,9 @@
 
 I'm interested in web development and mobile app development.
 
-- 🔭 I’m currently working on a browser version of etch-a-sketch made with JavaScript
-- 🌱 Currently learning JavaScript and C#
-- 👯 I’m looking to collaborate on any project
+- 🔭 I’m currently working on a calculator made with JavaScript.
+- 🌱 I'm currently learning JavaScript and C#.
+- 👯 I’m looking to collaborate on any project that involves JavaScript, C# and Flutter.
 
 <!--
 **IsaacAkin/IsaacAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
