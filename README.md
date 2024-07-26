@@ -2,7 +2,7 @@
 
 I'm interested in web development and mobile app development.
 
-- 🔭 I’m currently working on a calculator made with JavaScript.
+<!-- - 🔭 I’m currently working on a calculator made with JavaScript.-->
 - 🌱 I'm currently learning JavaScript.
 - 👯 I’m looking to collaborate on any project that involves JavaScript, C# and Flutter.
 
