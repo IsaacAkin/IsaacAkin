@@ -1,10 +1,10 @@
 ### Hi there, I'm Isaac Akinsanya 👋🏾
 
-I'm interested in web development and mobile app development.
+I'm interested in web development, mobile app development and backend development.
 
-<!-- - 🔭 I’m currently working on a calculator made with JavaScript.-->
-- 🌱 I'm currently learning JavaScript and C#
-- 👯 I’m looking to collaborate on any project that involves JavaScript, C# and Flutter.
+- 🔭 I’m currently working on a Library Record System made with C#.
+- 🌱 I'm currently learning C# and JavaScript
+- 👯 I’m looking to collaborate on any project that involves C#, JavaScript and Flutter.
 
 <!--
 **IsaacAkin/IsaacAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
