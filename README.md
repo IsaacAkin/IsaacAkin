@@ -2,7 +2,7 @@
 
 I'm interested in web development, mobile app development and backend development.
 
-<!-- - 🔭 I’m currently working on a Library Record System made with C#. -->
+- 🔭 I’m currently working on a fullstack library website made with C#, ASP.NET and MySQL.
 - 🌱 I'm currently learning C# and JavaScript
 - 👯 I’m looking to collaborate on any project that involves C#, JavaScript and Flutter.
 
