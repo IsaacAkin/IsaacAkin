@@ -8,7 +8,7 @@ I'm interested in web development, mobile app development and backend developmen
 
 <!--
 **IsaacAkin/IsaacAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- - 🔭 I’m currently working on a music transfer web app using JavaScript, Express and Node.js. -->
+- 🔭 I’m currently working on a music transfer web app using JavaScript, Express and Node.js
 
 Here are some ideas to get you started:
 
