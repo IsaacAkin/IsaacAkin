@@ -3,12 +3,12 @@
 I'm interested in web development, mobile app development and backend development.
 
 - 🔭 I’m currently working on a podiatry clinic website using JavaScript, Express and Node.js.
-<!-- - 🔭 I’m currently working on a music transfer web app using JavaScript, Express and Node.js. -->
 - 🌱 I'm currently learning JavaScript, MongoDB and C#.
 - 👯 I’m looking to collaborate on any project that involves JavaScript and C#.
 
 <!--
 **IsaacAkin/IsaacAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- - 🔭 I’m currently working on a music transfer web app using JavaScript, Express and Node.js. -->
 
 Here are some ideas to get you started:
 
