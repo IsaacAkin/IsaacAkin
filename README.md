@@ -1,10 +1,10 @@
 ### Hi there, I'm Isaac Akinsanya 👋🏾
 
-I'm interested in web development, mobile app development and backend development.
+I'm interested in web development and backend development.
 
-- 🔭 I’m currently working on a podiatry clinic website using JavaScript, Express and Node.js.
-- 🌱 I'm currently learning JavaScript, MongoDB and C#.
-- 👯 I’m looking to collaborate on any project that involves JavaScript and C#.
+- 🔭 I’m currently working on migrating my TrackMySeries website from an express app to a SPA React app.
+- 🌱 I'm currently learning React and C#.
+- 👯 I’m looking to collaborate on any project that involves JavaScript, React and C#.
 
 <!--
 **IsaacAkin/IsaacAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
